@@ -1,0 +1,27 @@
+<display-name>
+Hipótesis:
+Nombre de la implementación servlet.
+
+<servlet>
+Hipótesis:
+Componente web que se genera dentro de un contenedor web y produce contenido dinámico.
+
+<servlet-name>
+Hipótesis:
+Nombre del componente servlet.
+
+<servlet-class>
+Hipótesis:
+Clase de Java en formato Servlet.
+
+<servlet-mapping>
+Hipótesis:
+Implementación en el servlet para almacenar un par clave y valor.
+
+<url-pattern>
+Hipótesis:
+Ubicación para acceder a los datos del servidor.
+
+<welcome-file>
+Hipótesis:
+Archivo con el que se accede a los datos del servidor.

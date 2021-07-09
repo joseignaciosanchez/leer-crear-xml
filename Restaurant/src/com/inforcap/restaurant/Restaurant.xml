@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<restaurant>
+	<restaurantMenu>
+		<breakfast>Breakfast</breakfast>
+
+			<breakfastMenu>Lemon pie</breakfastMenu>
+			<breakfastMenu>Chocolate cake</breakfastMenu>
+			<breakfastMenu>Raspberry waffles</breakfastMenu>
+			<breakfastMenu>Apple cake</breakfastMenu>
+			<breakfastMenu>Sweet arabic</breakfastMenu>
+
+		<dinner>Dinner</dinner>
+
+			<dinnerMenu>Pasta salad</dinnerMenu>
+			<dinnerMenu>Grilled fish</dinnerMenu>
+			<dinnerMenu>Rice with vegetables</dinnerMenu>
+			<dinnerMenu>Chicken rolls with ham and cheese</dinnerMenu>
+			<dinnerMenu>Vegetarian pizza</dinnerMenu>
+
+		<drinkable>Drinkable</drinkable>
+	
+			<drinkableMenu>Tea</drinkableMenu>
+			<drinkableMenu>Drink</drinkableMenu>
+			<drinkableMenu>Natural juice</drinkableMenu>
+			<drinkableMenu>Water</drinkableMenu>
+	</restaurantMenu>
+</restaurant>
